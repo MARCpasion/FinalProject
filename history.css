@@ -184,8 +184,9 @@ footer::after {
         font-size: 45px;
     }
     .text {
-        margin-left: 0;
-        padding: 15px;
+        margin-left: 70%;
+        right: 25%;
+        margin-top: 10%;
     }
     .overlay img {
         height: 30vh;
