@@ -14,7 +14,7 @@ html, body {
 
 /* Navigation Bar */
 .navbar {
-    background: url('/IMAGES/wood-material-background-wallpaper-texture-concept_53876-30247.jpg') center/cover no-repeat;
+    background: url('IMAGES/wood-material-background-wallpaper-texture-concept_53876-30247.jpg') center/cover no-repeat;
     padding: 10px 15px;
     display: flex;
     justify-content: space-between;
@@ -64,7 +64,7 @@ html, body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('/IMAGES/KAMALIG\ COVER.jpg') center/cover no-repeat;
+    background: url('IMAGES/KAMALIG\ COVER.jpg') center/cover no-repeat;
     position: relative;
 }
 
@@ -161,7 +161,7 @@ html, body {
 
 /* Footer Styling */
 footer {
-    background: url('/IMAGES/wood-material-background-wallpaper-texture-concept_53876-30247.jpg') center/cover no-repeat;
+    background: url('IMAGES/wood-material-background-wallpaper-texture-concept_53876-30247.jpg') center/cover no-repeat;
     color: white;
     padding: 20px 0;
     text-align: center;
