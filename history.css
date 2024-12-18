@@ -16,17 +16,19 @@ html, body {
 
 /* Navigation Bar */
 .navbar {
-    background: url('IMAGES/wood-material-background-wallpaper-texture-concept_53876-30247.jpg') center/cover no-repeat;
+    background: url('/IMAGES/wood-material-background-wallpaper-texture-concept_53876-30247.jpg') center/cover no-repeat;
     padding: 10px 15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 100%; 
     z-index: 10;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    box-sizing: border-box; 
+    font-family: 'Arial', sans-serif;
 }
 
 /* Logo */
@@ -38,7 +40,6 @@ html, body {
     z-index: 2;
 }
 
-/* Navigation Links */
 .nav-links {
     list-style: none;
     display: flex;
