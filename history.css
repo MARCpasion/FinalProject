@@ -72,7 +72,7 @@ html, body {
 
 body {
     height: 100vh;
-    background: url('/IMAGES/historey.jpg') center/cover no-repeat;
+    background: url('IMAGES/historey.jpg') center/cover no-repeat;
 }
 
 .text {
