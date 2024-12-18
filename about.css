@@ -16,7 +16,7 @@ html, body {
 
 /* Navigation Bar */
 .navbar {
-    background: url('/IMAGES/wood-material-background-wallpaper-texture-concept_53876-30247.jpg') center/cover no-repeat;
+    background: url('IMAGES/wood-material-background-wallpaper-texture-concept_53876-30247.jpg') center/cover no-repeat;
     padding: 10px 15px;
     display: flex;
     justify-content: space-between;
@@ -65,7 +65,7 @@ html, body {
 
 /* General Styling */
 body {
-    background: url('/IMAGES/about cover.png') center/cover no-repeat fixed;
+    background: url('IMAGES/about cover.png') center/cover no-repeat fixed;
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
@@ -177,7 +177,7 @@ h1, h2 {
 
 /* Footer Styling */
 footer {
-    background: url('/IMAGES/wood-material-background-wallpaper-texture-concept_53876-30247.jpg') center/cover no-repeat;
+    background: url('IMAGES/wood-material-background-wallpaper-texture-concept_53876-30247.jpg') center/cover no-repeat;
     color: white;
     padding: 20px 0;
     text-align: center;
